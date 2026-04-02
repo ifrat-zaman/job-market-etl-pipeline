@@ -1,0 +1,16 @@
+work_mode,company_size,avg_salary_usd,avg_employee_satisfaction,avg_work_life_balance_score,job_count
+Hybrid,Startup,96130.17,69.63,61.73,5937
+Hybrid,Small,96788.08,73.2,69.47,5997
+Hybrid,Medium,98011.98,73.2,69.26,6063
+Hybrid,Large,96225.25,73.01,69.51,5796
+Hybrid,Enterprise,96543.66,74.66,75.42,5969
+Onsite,Startup,97108.6,69.52,61.52,6032
+Onsite,Small,96383.27,73.18,69.41,5936
+Onsite,Medium,96763.27,73.26,69.62,6217
+Onsite,Large,96090.64,73.01,69.62,5996
+Onsite,Enterprise,95897.63,74.67,75.63,6052
+Remote,Startup,96387.75,69.7,61.61,6039
+Remote,Small,96001.74,72.95,69.33,5986
+Remote,Medium,97206.42,73.23,69.63,6048
+Remote,Large,96118.34,73.15,69.81,5965
+Remote,Enterprise,96490.8,74.61,75.65,5967

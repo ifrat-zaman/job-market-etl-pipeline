@@ -1,0 +1,9 @@
+ai_specialization,avg_automation_risk,avg_job_security_score,avg_salary_usd,job_count
+NLP,50.93,75.6,96443.81,11072
+Forecasting,50.54,75.56,96010.56,11115
+Reinforcement Learning,50.38,75.44,95423.81,11261
+Computer Vision,50.35,75.69,96655.16,11487
+LLM,50.33,75.65,97076.65,11466
+MLOps,50.19,75.43,96742.07,11133
+Analytics,50.16,75.55,96905.55,11258
+Generative AI,49.99,75.59,97096.78,11208

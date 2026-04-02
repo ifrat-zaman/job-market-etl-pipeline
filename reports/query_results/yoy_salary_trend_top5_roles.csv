@@ -1,0 +1,36 @@
+job_role,year,avg_salary_usd,job_count
+AI Engineer,2020,98569.26,1587
+AI Engineer,2021,96761.33,1601
+AI Engineer,2022,98494.0,1595
+AI Engineer,2023,98830.94,1642
+AI Engineer,2024,97146.26,1577
+AI Engineer,2025,97359.64,1571
+AI Engineer,2026,98594.52,1674
+Machine Learning Engineer,2020,103069.49,1602
+Machine Learning Engineer,2021,101458.89,1605
+Machine Learning Engineer,2022,101454.11,1620
+Machine Learning Engineer,2023,101971.54,1606
+Machine Learning Engineer,2024,101493.2,1586
+Machine Learning Engineer,2025,101887.73,1573
+Machine Learning Engineer,2026,103458.67,1671
+NLP Engineer,2020,100072.6,1608
+NLP Engineer,2021,101032.17,1660
+NLP Engineer,2022,98196.9,1556
+NLP Engineer,2023,100526.7,1656
+NLP Engineer,2024,99263.1,1632
+NLP Engineer,2025,99776.22,1554
+NLP Engineer,2026,99282.51,1746
+Research Scientist,2020,112123.59,1703
+Research Scientist,2021,110930.43,1606
+Research Scientist,2022,108605.32,1635
+Research Scientist,2023,106350.03,1626
+Research Scientist,2024,110013.06,1541
+Research Scientist,2025,111614.11,1595
+Research Scientist,2026,108889.42,1603
+Software Engineer AI,2020,96857.58,1572
+Software Engineer AI,2021,99275.27,1677
+Software Engineer AI,2022,97270.41,1656
+Software Engineer AI,2023,97197.16,1587
+Software Engineer AI,2024,98050.0,1651
+Software Engineer AI,2025,96300.0,1641
+Software Engineer AI,2026,96560.13,1549
